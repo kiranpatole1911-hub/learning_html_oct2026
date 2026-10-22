@@ -1,0 +1,36 @@
+h1{
+    background-color:navy;
+    font-size: 25px;
+    color:gold;
+    text-align: left;
+
+}
+h2{
+     background-color: navy;
+     font-size: 25px;
+    color: gold;
+    text-align: left;
+    text-shadow: 6px 7px 8px black;
+}
+p{
+    color:brown;
+    padding: 20px;
+    border: 10px red;
+    font-size: 35pxS;
+}
+th{
+    background-color: navy;
+    color: white;
+    padding: 10;
+}
+td{
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    background-color: lightblue;
+}
+
