@@ -1,0 +1,17 @@
+.abbr_classes{
+    color: aqua;
+    background-color: rgb(255, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    color: aquamarine;
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol{
+    color: grey;
+    background-color: aqua;
+    font-family: Lucida Sans;
+    border-top: 2px red;
+
+}

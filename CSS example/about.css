@@ -1,0 +1,21 @@
+.masive{
+color:black;
+padding: 40px;
+border: 10px black;
+font-size: 35pxS;
+}
+em{
+   color:palevioletred; 
+   padding: 20px;
+   text-shadow: 6px 7px 8px black;
+   font-size: 15px;
+   font-family: cursive;
+
+}
+.nav_class{
+    background-color:white;
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 6px 5px 6px 5px;
+    border-radius: 3px;
+}
