@@ -33,4 +33,17 @@ table{
     border-collapse: collapse;
     background-color: lightblue;
 }
+.masive{
+color:black;
+padding: 40px;
+border: 10px black;
+font-size: 35pxS;
+}
+em{
+   color:palevioletred; 
+   padding: 20px;
+   text-shadow: 6px 7px 8px black;
+   font-size: 30px;
+
+}
 
