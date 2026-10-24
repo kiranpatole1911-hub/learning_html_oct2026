@@ -1,11 +1,8 @@
 .abbr_classes{
-    color: aqua;
-    background-color: rgb(255, 0, 0);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 p{
-    color: aquamarine;
-    background-color: red;
+color:navy;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 ol{
@@ -15,3 +12,16 @@ ol{
     border-top: 2px red;
 
 }
+.bg_pro1{
+background-color: black;
+background-image: url("../Imeges/service\ platform.webp");
+background-repeat: no-repeat;
+background-size: cover;
+}
+  h1 { 
+    background-color: antiquewhite;
+    font-size: 25px;
+    color:gold;
+    text-align: left;
+    padding: 1px;
+   }

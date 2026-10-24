@@ -1,22 +1,31 @@
+.position{
+    position: sticky;
+    margin-top: 10px;
+}
 h1{
-    background-color:navy;
+    background-color:deeppink;
     font-size: 25px;
     color:gold;
     text-align: left;
+    border: 2px solid azure;
+    padding: 1px;
 
 }
 h2{
-     background-color: navy;
+     background-color:deeppink;
      font-size: 25px;
     color: gold;
     text-align: left;
     text-shadow: 6px 7px 8px black;
+    padding: 1px;
+    border: 2px solid azure;
 }
 p{
-    color:brown;
+    color:lightcoral;
     padding: 20px;
     border: 10px red;
-    font-size: 35pxS;
+    font-size: 30px;
+    
 }
 th{
     background-color: navy;
@@ -46,4 +55,15 @@ em{
    font-size: 5px;
 
 }
+.bg_pro{
 
+    background-color:black;
+    background-image: url("../Imeges/bmw\ car\ wellpaper.png");
+    background-repeat: no-repeat;
+    background-size: 1500px 1500px;
+}
+ li{
+color: gold;
+font-family: 'Courier New', Courier, monospace;
+
+ }

@@ -1,11 +1,5 @@
-.masive{
-color:black;
-padding: 40px;
-border: 10px black;
-font-size: 35pxS;
-}
+
 em{
-   color:palevioletred; 
    padding: 20px;
    text-shadow: 6px 7px 8px black;
    font-size: 15px;
@@ -16,6 +10,33 @@ em{
     background-color:white;
     border: 1px solid black;
     margin-top: 10px;
-    padding: 6px 5px 6px 5px;
+    padding: 2px 2px 2px 2px;
     border-radius: 3px;
+}
+li{
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.about_bg{
+background-color: black;
+background-image: url("../Imeges/bmw\ car\ wellpaper.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+h4{
+    color: aqua;
+    font-family: monospace;
+    font-size: 25px;
+
+}
+h1{
+    background-color:maroon;
+    font-size: 25px;
+    color:gold;
+    text-align: left;
+    border: 2px solid azure;
+    padding: 1px;
+}
+.position1{
+    position: sticky;
 }
