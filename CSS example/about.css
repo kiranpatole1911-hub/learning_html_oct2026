@@ -40,3 +40,9 @@ h1{
 .position1{
     position: sticky;
 }
+.image_contact{
+    background-image: url("../Imeges/file_000000000f548210a65a2824e7af63d4.png");
+    background-color: aqua;
+    background-size: auto;
+    background-repeat: no-repeat;
+}

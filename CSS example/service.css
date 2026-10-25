@@ -1,0 +1,35 @@
+.abbr_classes{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol{
+    color:#fff;
+    font-family: Lucida Sans;
+    border-top: 2px red;
+
+}
+.bg_pro1{
+background-color: black;
+background-image: url("../Imeges/service\ platform.webp");
+background-repeat: no-repeat;
+background-size: cover;
+}
+  h1 { 
+    background-color: antiquewhite;
+    font-size: 25px;
+    color:gold;
+    text-align: left;
+    padding: 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+   ul{
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+   }
+   h3{
+    color: navy;
+   }
