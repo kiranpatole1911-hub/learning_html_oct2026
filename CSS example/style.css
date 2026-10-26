@@ -67,3 +67,10 @@ color: gold;
 font-family: 'Courier New', Courier, monospace;
 
  }
+
+ .mark1::focus{
+    background-color: pink;
+    color: navy;
+
+
+ }

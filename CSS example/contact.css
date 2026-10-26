@@ -1,0 +1,17 @@
+.bg_properties{
+    background-color: black;
+    background-image: url(../Imeges/file_000000005cd08211af968a0f3d58ea62.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+legend{
+font: size 300px; 
+font-family: 'Courier New', Courier, monospace;
+color:goldenrod;
+padding: 10px;
+
+}
+
+
+
