@@ -5,13 +5,38 @@
     background-size: cover;
 }
 
-legend{
+label{
 font: size 300px; 
 font-family: 'Courier New', Courier, monospace;
 color:goldenrod;
 padding: 10px;
 
 }
+.bg_class:hover
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 10px;
+    color:gold;
+}
 
 
+input:focus{
+    border: 5px dashed orangered;
+    background-color: aliceblue;
+    color: rgb(255, 0, 0);
+}
+legend::first-letter{
+    color: red;
+    font-family: Geneva, Verdana, sans-serif;
+    font-size:35px;
+}
 
+legend::first-line{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: size 15px; 
+}
+u{
+    color: goldenrod;
+    border-bottom: 4px dashed blue;
+}
